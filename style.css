@@ -24,7 +24,7 @@ section{
 }
 .page-1{
     
-    background-image: url("/Personal-website/header-bg.png");
+    background-image: url("Personal-website/header-bg.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -98,7 +98,7 @@ section{
 }
 .middle-section{
     height: 800px;
-    background-image: url("/Personal-website/biography-bg.png");
+    background-image: url("Personal-website/biography-bg.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -108,7 +108,7 @@ section{
 
 .bottom-sec{
     height: 750px;
-    background-image: url("/Personal-website/latest-work-bg.png");
+    background-image: url("Personal-website/latest-work-bg.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
